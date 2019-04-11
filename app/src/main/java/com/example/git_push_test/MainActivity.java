@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
     //수정
     //수정2
     //메일 인증 완료. 테스트 하는중
+    //졸려요
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
